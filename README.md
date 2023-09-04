@@ -1,8 +1,15 @@
-# ![](./banner.gif)
-# 💫 About Me:
+<img src="./banner.gif" width="1000" />
+
+---
+
+<h1 align="center">Hi 👋, I'm Aman Akhter</h1>
+<h3 align="center">I am Nerdy Tech Enthusiast also MERN stack Web Developer and Futter App Developer</h3>
+
 - 🌱 I’m currently learning Data Science And Java Skills
 - 💬 Ask me about Mongo, Express, React, Node, Flutter
 - ⚡ Fact about me I am an INFJ-A
+
+<br>
 
 ![](https://visitcount.itsvg.in/api?id=amanAkhter&icon=2&color=0)
 
@@ -24,6 +31,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
