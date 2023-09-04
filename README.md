@@ -1,4 +1,4 @@
-![MasterHead](./banner.jpg)
+![MasterHead](./banner.gif)
 <h1 align="center">Hi 👋, I'm Aman Akhter</h1>
 <h3 align="center">A passionate MERN stack Web Developer and Futter App Developer</h3>
 
