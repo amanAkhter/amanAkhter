@@ -8,9 +8,7 @@
 - 🌱 I’m currently learning Data Science And Java Skills
 - 💬 Ask me about Mongo, Express, React, Node, Flutter
 - ⚡ Fact about me I am an INFJ-A
-
 ![](https://visitcount.itsvg.in/api?id=amanAkhter&icon=2&color=0)
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanakhter) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/amanak07) 
 
@@ -20,10 +18,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanAkhter&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=amanAkhter&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanAkhter&theme=tokyonight&hide_border=false)
-
 ### 😶 Random Programming Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amanAkhter&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 
