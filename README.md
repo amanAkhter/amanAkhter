@@ -9,8 +9,6 @@
 - 💬 Ask me about Mongo, Express, React, Node, Flutter
 - ⚡ Fact about me I am an INFJ-A
 
-<br>
-
 ![](https://visitcount.itsvg.in/api?id=amanAkhter&icon=2&color=0)
 
 # 🌐 Socials:
