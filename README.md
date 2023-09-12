@@ -5,12 +5,11 @@
 <h1 align="center">Hi 👋, I'm Aman Akhter</h1>
 <h3 align="center">I am Nerdy Tech Enthusiast also MERN stack Web Developer and Futter App Developer</h3>
 
+![](https://visitcount.itsvg.in/api?id=amanAkhter&icon=2&color=0)
+
 - 🌱 I’m currently learning Data Science And Java Skills
 - 💬 Ask me about Mongo, Express, React, Node, Flutter
 - ⚡ Fact about me I am an INFJ-A
-<br>
-![](https://visitcount.itsvg.in/api?id=amanAkhter&icon=2&color=0)
-<br>
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanakhter) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/amanak07) 
 
