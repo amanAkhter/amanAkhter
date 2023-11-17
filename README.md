@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Aman Akhter</h1>
-<h3 align="center">I am Nerdy Tech Enthusiast also MERN stack Web Developer and Futter App Developer</h3>
+<h3 align="center">I am Nerdy Tech Enthusiast also MERN stack Web Developer and Flutter App Developer</h3>
 
 ![](https://visitcount.itsvg.in/api?id=amanAkhter&icon=2&color=0)
 
