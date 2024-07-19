@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, Aman Akhter this side,</h1>
+<h1 align="center">Hi Aman Akhter, this side 👋</h1>
 <h3 align="center">A quintessential tech nerd, MERN Full Stack Web Developer, Flutter App Developer, currently working on DSA and AIML</h3>
 
 ![](https://visitcount.itsvg.in/api?id=amanAkhter&icon=2&color=0)
