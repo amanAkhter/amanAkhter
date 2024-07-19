@@ -2,8 +2,8 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Aman Akhter</h1>
-<h3 align="center">I am Nerdy Tech Enthusiast also MERN stack Web Developer and Flutter App Developer</h3>
+<h1 align="center">Hi 👋, Aman Akhter this side,</h1>
+<h3 align="center">A quintessential tech nerd, MERN Full Stack Web Developer, Flutter App Developer, currently working on DSA and AIML</h3>
 
 ![](https://visitcount.itsvg.in/api?id=amanAkhter&icon=2&color=0)
 
@@ -30,6 +30,6 @@
 ### 😶 Random Programming Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ### 😹 Random Porgramming Memes
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<!-- ### 🔝 Top Contributed Repo
+<!-- <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amanAkhter&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
